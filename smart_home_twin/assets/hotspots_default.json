@@ -1,0 +1,26 @@
+{
+  "living_motion": {
+    "nx": 0.18,
+    "ny": 0.36
+  },
+  "living_temp": {
+    "nx": 0.3,
+    "ny": 0.3
+  },
+  "kitchen_temp": {
+    "nx": 0.48,
+    "ny": 0.2
+  },
+  "bath_temp": {
+    "nx": 0.6,
+    "ny": 0.23
+  },
+  "bedroom_temp": {
+    "nx": 0.82,
+    "ny": 0.25
+  },
+  "hall_motion": {
+    "nx": 0.52,
+    "ny": 0.34
+  }
+}
